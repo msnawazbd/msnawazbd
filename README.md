@@ -2,12 +2,6 @@
 [![Gists Badge](https://badges.pufler.dev/gists/msnawazbd)](https://gist.github.com/msnawazbd)
 [![Gists Badge](https://pageview.vercel.app/?github_user=msnawazbd)](https://github.com/msnawazbd)
 
-
-### Download Resume:
-<a title="PHP" href="https://drive.google.com/u/0/uc?id=1qdK3JZVD9ZxTXfNZQgr0FdFUkWWxwhLT&export=download">
-   <img src="https://img.shields.io/badge/Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff"/>
-</a>
-
 <h2>MY GITHUB STATS</h2>
 <p>
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=msnawazbd&show_icons=true&line_height=27">
