@@ -111,13 +111,13 @@
 <a title="Git" href="https://git-scm.com/">
    <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 </a>
-<a title="Github" href="https://github.com/mishajib">
+<a title="Github" href="https://github.com/msnawazbd">
    <img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a title="BitBucket" href="https://bitbucket.org/mishajib/">
+<a title="BitBucket" href="https://bitbucket.org/msnawazbd/">
    <img src="https://img.shields.io/badge/Bitbucket%20-%230047B3.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
 </a>
-<a title="GitLab" href="https://gitlab.com/mishajib">
+<a title="GitLab" href="https://gitlab.com/msnawazbd">
    <img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
 </a>  
 
