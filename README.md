@@ -86,20 +86,20 @@
 
 <h2>WHERE TO FIND ME</h2>
 <p>
-    <a title="Facebook" href="https://facebook.com/kzaman.me">
-        <img src="https://img.shields.io/badge/-Zaman-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+    <a title="Facebook" href="https://facebook.com/msnawazbd">
+        <img src="https://img.shields.io/badge/-Nawaz-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/msnawazbd/">
-        <img src="https://img.shields.io/badge/-Zaman-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Nawaz-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
-    <a title="Instagram" href="https://instagram.com/kamruzzam_n">
-        <img src="https://img.shields.io/badge/-Zaman-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
+    <a title="Instagram" href="https://instagram.com/msnawazbd">
+        <img src="https://img.shields.io/badge/-Nawaz-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
     </a>
-    <a title="Twitter" href="https://twitter.com/kzaman.me">
-        <img src="https://img.shields.io/badge/-Zaman-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
+    <a title="Twitter" href="https://twitter.com/msnawazbd">
+        <img src="https://img.shields.io/badge/-Nawaz-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
     <a title="Youtube" href="https://www.youtube.com/channel/UCXyOb54bzbRA2wl2que_fGQ">
-        <img src="https://img.shields.io/badge/-Zaman-%23FF0000?style=flat-square&logo=youtube" />
+        <img src="https://img.shields.io/badge/-Nawaz-%23FF0000?style=flat-square&logo=youtube" />
     </a>
 </p>
 
@@ -181,8 +181,8 @@
    <img src="https://img.shields.io/badge/Trello-%230079BF.svg?&style=flat-square&logo=trello&logoColor=white"/>
 </a>
 
-[website]: https://kzaman.me/
-[twitter]: https://twitter.com/kzaman_me
+[website]: https://clustercoding.com/
+[twitter]: https://twitter.com/msnawazbd
 [youtube]:  https://www.youtube.com/
 [linkedin]: https://www.linkedin.com/in/msnawazbd/
-[facebook]: https://www.facebook.com/kzaman.me/
+[facebook]: https://www.facebook.com/msnawazbd/
